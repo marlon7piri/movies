@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  width:400px;
+}
